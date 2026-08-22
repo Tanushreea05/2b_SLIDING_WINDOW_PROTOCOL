@@ -42,10 +42,11 @@ s.send("acknowledgement received from the server".encode())
 ```
 ## OUPUT
 ## Client
-![CN 2b op 1](https://github.com/user-attachments/assets/444477b2-9813-42a5-81d2-e21724c89ded)
+<img width="895" height="958" alt="image" src="https://github.com/user-attachments/assets/e400913a-c722-44fc-811a-8a13301f2cd2" />
+
 
 ## Server
-![CN 2b op2](https://github.com/user-attachments/assets/c75b9ed5-1e7f-4b8b-b972-f7e14c9b4a26)
+<img width="890" height="947" alt="image" src="https://github.com/user-attachments/assets/e7e6ce11-fd8f-41e6-a123-bd530e36f33c" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
